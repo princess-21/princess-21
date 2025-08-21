@@ -9,12 +9,12 @@
 <img src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="270px" width="350px" align="right" alt="Coding animation">
 
 ### 👩‍💻 About Me
-- 🎓 Graduate of [Your School or Program]
-- 🌱 Currently learning [Tech you're learning]
-- 💡 Passionate about [Your passion]
+- 🎓 Graduate of Computer Science
+- 🌱 Currently learning Typescript and React Native
+- 💡 Passionate about Tech and Building products
 - ✍️ Technical writer / open-source contributor
-- 🔍 Open to opportunities in [Preferred roles]
-- 📫 Reach me: [Your email address]
+- 🔍 Open to opportunities in Frontend Engineering
+- 📫 Reach me: okekechidera293@gmail.com
 
 ### 🌐 Connect With Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Your Twitter link)
