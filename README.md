@@ -17,7 +17,7 @@
 - 📫 Reach me: okekechidera293@gmail.com
 
 ### 🌐 Connect With Me
-<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Your Twitter link)
+<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Your Twitter link)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okeke-chidera/)
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Your Instagram link)---->
 
@@ -35,7 +35,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📊 GitHub Stats
-<div align="center">
+<!--<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" />
   <br>
