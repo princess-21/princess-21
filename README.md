@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Your Name]</h2>
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Chidera Okeke </h2>
 
 <p align="center">
   <a href="https://github.com/ghostdev-labs/readme-typing-svg">
