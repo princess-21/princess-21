@@ -44,13 +44,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" />
-  <br><br>
-  ![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square)
 </div>
